@@ -1,0 +1,8 @@
+day → ¬night
+day ∨ night
+clear → dry
+day ∧ dry → sprinkler ∧ bright 
+rain → wet
+wet → ¬dry
+
+

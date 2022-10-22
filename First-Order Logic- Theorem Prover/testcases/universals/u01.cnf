@@ -1,0 +1,9 @@
+Predicates: dog cat animal 
+Variables: x1 x0 x3 x2 
+Constants: 
+Functions: 
+Clauses:
+!dog(x0) animal(x0) 
+!cat(x1) animal(x1) 
+cat(x2) 
+!animal(x3) 
